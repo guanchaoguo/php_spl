@@ -1,2 +1,2 @@
-# php_spl
-spl_sql
+# php_spL
+ php_spL
